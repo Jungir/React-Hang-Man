@@ -6,7 +6,7 @@ To serve the app:
 
 
 
-1)npm install -g serve
+1) npm install -g serve
 
-2)serve -s build
+2) serve -s build
 
